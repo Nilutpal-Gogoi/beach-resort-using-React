@@ -138,7 +138,7 @@ export default [
       name: "single standard",
       slug: "single-standard",
       type: "single",
-      price: 250,
+      price: 250, 
       size: 300,
       capacity: 1,
       pets: true,
